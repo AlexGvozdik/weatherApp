@@ -1,2 +1,2 @@
-# weatherApp
-Forecast with Love
+# Wheather-App
+Wheather App (Group 2 GOIT)
